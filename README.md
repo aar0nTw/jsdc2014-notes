@@ -214,3 +214,7 @@ Monadic actions can be chained as function composition.
 
 [PoC of Maybe in Javascript](https://github.com/snowmantw/warmfuzzything.js/blob/master/maybe.js)
 
+[React](http://facebook.github.io/react/index.html)
+
+[Flux](http://facebook.github.io/flux/docs/overview.html)
+
