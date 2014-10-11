@@ -154,6 +154,8 @@ R0 #3 HTML Accessibility
 
 ### Accessibility Matters
 
+[View Slide](http://lab.lepture.com/jsdc-2014/slide.html#/)
+
 It is the right thing to do, Just follow the standards.
 
 _Accessibility in real life_
@@ -171,9 +173,5 @@ _Accessibility in real life_
 > yue.css is a typography stylesheet for readable content.
 > It was created for my blog at first since I always designed a new theme for my blog.
 > But later it becomes the offical stylesheet for yuehu site.
-
-_Voice Over_
-
-VO: Control + Option
 
 
