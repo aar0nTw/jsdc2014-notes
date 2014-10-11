@@ -174,4 +174,7 @@ _Accessibility in real life_
 > It was created for my blog at first since I always designed a new theme for my blog.
 > But later it becomes the offical stylesheet for yuehu site.
 
+[ChromeVox](http://www.chromevox.com/)
+
+> ChromeVox is a screen reader for Chrome which brings the speed, versatility, and security of Chrome to visually impaired users.
 
