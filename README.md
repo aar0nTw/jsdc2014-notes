@@ -3,9 +3,7 @@ Opening
 ## Jeff Pope
 ### Sencha.io, Director of Asia Pacific Region
 
-promo, promo, promo
-
-
+promote, promote, promote
 
 R0 #1 Use Node Modules In The Browser With Browserify
 ==============
