@@ -240,3 +240,20 @@ Monadic actions can be chained as function composition.
 [Flux](http://facebook.github.io/flux/docs/overview.html)
 
 [Facebook flux TodoMVC example](https://github.com/facebook/flux/tree/master/examples/flux-todomvc)
+
+---
+
+R0 #5 RxJS for frontend developers
+==========
+### Huge
+
+[RxJS](https://github.com/Reactive-Extensions/RxJS)
+
+The code come mess cause boss's fucking requirements.
+
+[jhusain.github.io/learnrx](http://jhusain.github.io/learnrx)
+
+What's differents between `Array` and `Event`
+
+They're same as a collection, the different is Event have Timing.
+
