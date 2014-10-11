@@ -188,6 +188,27 @@ _Accessibility in real life_
 
 ---
 
+R0 #4 PgREST
+============================
+### clkao
+
+### [PgREST](https://github.com/pgrest/pgrest) - PostgreSQL, JavaScript, and REST
+
+clkao: 頂新太 decent 了，沒辦法好好寫 slide，所以開始從 [http://tmsearch.tipo.gov.tw/](http://tmsearch.tipo.gov.tw/) 撈商標  
+hackpad: [抵制大幫手](https://g0v.hackpad.com/%E6%8A%B5%E5%88%B6%E5%A4%A7%E5%B9%AB%E6%89%8B-Operation-Decent-tf4txwcUKV8)  
+API 晚上上線: [decent.tw](http://decent.tw)
+
+PostgreSQL  
+
+- Schema(= namespace)
+- View(= predefined queries)
+- Triggers & Rules(= hooking queries)
+
+[jq](http://stedolan.github.io/jq/)  
+[plv8x](https://github.com/clkao/plv8x)
+
+---
+
 R2 #4 Functional JavaScript, Why or Why Not?
 ============================================
 ### Greg Weng
@@ -219,4 +240,3 @@ Monadic actions can be chained as function composition.
 [Flux](http://facebook.github.io/flux/docs/overview.html)
 
 [Facebook flux TodoMVC example](https://github.com/facebook/flux/tree/master/examples/flux-todomvc)
-
