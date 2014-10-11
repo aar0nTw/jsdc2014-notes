@@ -13,9 +13,12 @@ _requrie anywhere use Browserify_
 in browser you can handle dom, node can use TCP/UDP
 but everything else you can do two place both
 
-*broserify handbook* on github [browserify-handbook](https://github.com/substack/browserify-handbook)
+*browserify handbook* on github [browserify-handbook](https://github.com/substack/browserify-handbook)
 
-*nodeschool* [](nodeschool.io)
+[*browserify-adventure*](github.com/substack/browserify-adventure)
+Learning browserify
+
+[*nodeschool*](nodeschool.io)
 Learning node online
 
 `npm install learnyounode`
@@ -26,9 +29,9 @@ step by step using cli
 
 * github nodeschool/taiwan
 * browserify-transform
-* substack/brfs
+* [substack/brfs](https://github.com/substack/brfs)
 
-_packify_
+[_packify_](https://github.com/maxogden/packify)
 Pack all stylesheets and js file in one html file
 images become base64 encode
 
@@ -36,7 +39,10 @@ npm install --save
 
 `--save` will put it in your dependencies
 
-_morkdown_
+[_morkdown_](https://github.com/rvagg/morkdown)
+
+[_leveljs_](https://github.com/rvagg/leveljs)
+LevelDB with js
 
 voxel.js
 blockplot
@@ -47,10 +53,13 @@ blockplot
 
 [http://stack.gl/](http://stack.gl/)
 
-_thealphanerd/sudoku_
+[_thealphanerd/sudoku_](https://github.com/thealphanerd/sudoku)
 applciation sample of use browserify
 
-_watchify_
+[_beefy_](http://didact.us/beefy/)
+tiny browserify server
+
+[_watchify_](https://github.com/substack/watchify)
 Watch and recompile while every time you change file
 
 [_tape_](https://www.npmjs.org/package/tape)
