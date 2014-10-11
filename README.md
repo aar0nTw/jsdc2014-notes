@@ -1,14 +1,13 @@
 # Opening
 -----------------
-Jeff Pope
-Sencha.io, Director of Asia Pacific Region
+## Jeff Pope
+### Sencha.io, Director of Asia Pacific Region
 
 promo, promo, promo
-~~~
 
 #1 Use Node Modules In The Browser With Browserify
 -----------------
-maxwell ogden
+## maxwell ogden
 
 _requrie anywhere use Browserify_
 in browser you can handle dom, node can use TCP/UDP
