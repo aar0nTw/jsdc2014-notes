@@ -185,3 +185,11 @@ _Accessibility in real life_
 [Spectrum](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb)
 
 > Instantly test your web page with different types of color vision deficiency.
+
+---
+
+R2 #4 Functional JavaScript, Why or Why Not?
+============================================
+
+[View Slide](http://bit.ly/jsdc2014-funjs)
+
