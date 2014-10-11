@@ -7,7 +7,7 @@ promo, promo, promo
 
 
 
-1 Use Node Modules In The Browser With Browserify
+R0 #1 Use Node Modules In The Browser With Browserify
 ==============
 ## maxwell ogden
 
@@ -59,4 +59,76 @@ Watch and recompile while every time you change file
 a test framework
 
 [testling](https://ci.testling.com/)
+
+R0 #2 Private NPM for Company
+=====================
+## 蘇千
+@fengmk2
+
+[npm structure](http://blog.nodejs.org/2013/11/26/npm-post-mortem/)
+
+### Why CNPM
+
+* Easy Maintain / 容易維護
+* Lower Cost / 很低成本
+* Stable / 穩定可用
+* Faster / 更快
+* Simple / 簡單
+* Open Source / 開源
+
+Use `npm install cnpm` and assign private npm registry path
+
+(Taobao mirror)[http://npm.taobao.org/]
+
+### Why Private NPM
+
+* Need fast and stable NPM service
+* Publish private modules
+* Control the modules of NPM
+
+_What's the problem on CouchDB solution_
+
+* Sync Latency too large
+
+_CNPM_
+- Duplicate name between public and private module.
+- Internal User Authorization
+
+Solve:
+  - Scoped package, use namespace to avoid duplicate package name.
+    Publish with @scoped
+    e.g.: `@ali/fs`, `@alipay/fs`
+
+  - CNPM support UserService API [http://t.cn/Rhr8Zes](http://t.cn/Rhr8Zes)
+    - auth
+    - get
+    - list
+    - search
+
+
+Ali NPM Downloads per month in 2014 grow to 2 million.
+(Paypal private npm have 500,000 npm installs per day, internally. 8x than Ali)
+
+_Lower Cost_
+
+[cnpmjs.org](http://cnpmjs.org) total cost per month: $19.6, only NT$ 600
+
+_Stable_
+
+[reports: r.cnpmjs.org](http://r.cnpmjs.org)
+
+_Easy to contribute_
+
+cnpm/cnpmjs
+
+_koa_
+[koajs/koa](https://github.com/koajs/koa)
+
+They are hiring
+
+- Javascript Engineer
+- NodeJS Engineer
+@ Alipay
+
+suqian.yf@alipay.com
 
