@@ -113,7 +113,7 @@ Solve:
     - search
 
 
-Ali NPM Downloads per month in 2014 grow to 2 million.
+Ali NPM Downloads per month in 2014 is grow to 2 millions.
 (Paypal private npm have 500,000 npm installs per day, internally. 8x than Ali)
 
 _Lower Cost_
@@ -138,4 +138,33 @@ They are hiring
 @ Alipay
 
 suqian.yf@alipay.com
+
+R0 #3 HTML Accessibility
+============================
+## 楊曉明 @lepture
+
+### Accessibility Matters
+
+It is the right thing to do, Just follow the standards.
+
+_Accessibility in real life_
+
+  * The Metro
+  * Toliet Design
+  * Traffic Light, it's a bad design for color blindners.
+    ~8% is color blinders in reallife
+    Think about why we not add a shape for the light that make the color blinder can access the traffic light.
+
+  Trello color blind friendly label.
+
+[yue.css](http://lab.lepture.com/yue.css/)
+
+> yue.css is a typography stylesheet for readable content.
+> It was created for my blog at first since I always designed a new theme for my blog.
+> But later it becomes the offical stylesheet for yuehu site.
+
+_Voice Over_
+
+VO: Control + Option
+
 
