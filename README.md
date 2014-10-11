@@ -9,6 +9,8 @@ R0 #1 Use Node Modules In The Browser With Browserify
 ==============
 ## maxwell ogden
 
+[JS for Cats](http://jsforcats.com)
+
 _requrie anywhere use Browserify_
 in browser you can handle dom, node can use TCP/UDP
 but everything else you can do two place both
