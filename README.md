@@ -190,6 +190,27 @@ _Accessibility in real life_
 
 R2 #4 Functional JavaScript, Why or Why Not?
 ============================================
+### Greg Weng
+#### @GregWeng
 
 [View Slide](http://bit.ly/jsdc2014-funjs)
+
+[Mozilla blog](http://blog.mozilla.com.tw/)
+
+Functional Programming would bring you:
+   * Re-thinking
+   * Patterns
+   * Fun
+
+[facebook/immutable-js](https://github.com/facebook/immutable-js)
+
+_Monad_
+
+[What is a monad - StackOverflow](http://stackoverflow.com/questions/44965/what-is-a-monad)
+
+It's so complex when we search monad on initernet.
+
+Monadic actions can be chained as function composition.
+
+[PoC of Maybe in Javascript](https://github.com/snowmantw/warmfuzzything.js/blob/master/maybe.js)
 
