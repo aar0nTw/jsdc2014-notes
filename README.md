@@ -259,3 +259,20 @@ They're same as a collection, the different is Event have Timing.
 
 [RxMarbles](http://rxmarbles.com/)
 > Interactive diagrams of Rx Observables
+
+---
+
+R0 Day 1 Last - Micro Database
+===================
+### James Halliday
+
+_unix philosophy_
+
+Write programs that do one thing and do it well.
+
+Leveldb
+
+ - bytewise
+
+ .. some live demo for build a simple dict app use it
+
