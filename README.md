@@ -1,12 +1,14 @@
-# Opening
------------------
+Opening
+==============
 ## Jeff Pope
 ### Sencha.io, Director of Asia Pacific Region
 
 promo, promo, promo
 
-#1 Use Node Modules In The Browser With Browserify
------------------
+
+
+1 Use Node Modules In The Browser With Browserify
+==============
 ## maxwell ogden
 
 _requrie anywhere use Browserify_
