@@ -1,13 +1,15 @@
 Opening
 ==============
-## Jeff Pope
-### Sencha.io, Director of Asia Pacific Region
+### Jeff Pope
+#### Sencha.io, Managing Director of Asia Pacific Region
 
 promote, promote, promote
 
+---
+
 R0 #1 Use Node Modules In The Browser With Browserify
 ==============
-## maxwell ogden
+### maxwell ogden
 
 [JS for Cats](http://jsforcats.com)
 
@@ -69,10 +71,12 @@ a test framework
 
 [testling](https://ci.testling.com/)
 
+---
+
 R0 #2 Private NPM for Company
 =====================
-## 蘇千
-@fengmk2
+### 蘇千
+#### @fengmk2
 
 [npm structure](http://blog.nodejs.org/2013/11/26/npm-post-mortem/)
 
@@ -141,9 +145,12 @@ They are hiring
 
 suqian.yf@alipay.com
 
+---
+
 R0 #3 HTML Accessibility
 ============================
-## 楊曉明 @lepture
+### 楊曉明
+#### @lepture
 
 ### Accessibility Matters
 
