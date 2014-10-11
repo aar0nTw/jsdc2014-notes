@@ -178,3 +178,10 @@ _Accessibility in real life_
 
 > ChromeVox is a screen reader for Chrome which brings the speed, versatility, and security of Chrome to visually impaired users.
 
+[Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
+
+> This extension will add an Accessibility audit, and an Accessibility sidebar pane in the Elements tab, to your Chrome Developer Tools.
+
+[Spectrum](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb)
+
+> Instantly test your web page with different types of color vision deficiency.
