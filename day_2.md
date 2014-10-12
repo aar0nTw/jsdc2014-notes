@@ -70,3 +70,9 @@ References:
 - [ ZeroMQ internal Architecture ](http://www.zeromq.org/whitepapers:architecture)
 - [ Dissecting Message Queues ](http://www.bravenewgeek.com/dissecting-message-queues/)
 
+---
+
+---
+
+Back to [Day 1](https://github.com/sorarize)
+
