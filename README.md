@@ -276,3 +276,5 @@ Leveldb
 
  .. some live demo for build a simple dict app use it
 
+Go to [Day 2](https://github.com/aar0nTw/jsdc2014-notes/blob/master/day_2.md)
+
