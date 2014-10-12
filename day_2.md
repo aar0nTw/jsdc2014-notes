@@ -121,5 +121,82 @@ demo [會動的貓眼](http://qgy18.imququ.com/bobo/edit.html)
 
 ---
 
+R0 #5 Node.js, p2p and MAD SCIENCE
+==================================
+### Mathias Buus
+#### [@mafintosh](https://github.com/mafintosh)
+
+javascript bittorrent
+
+Bittorrent is way more normal way to transmit data
+clients share data between each other instead.
+
+many pieces hashes of the file
+
+store hash files in one server, name torrent file
+
+recursion
+
+```
+magnetlink = hash([
+    hash(pieces),
+    hash(pieces),
+    hash(pieces)
+  ]);
+```
+
+Distributed hash table
+
+basiclly like normal table like sql
+
+every peer joins the dht
+
+```
+{
+  magnet_link_1: 'my-ip:my-port',
+  magnet_link_2: 'my-ip:my-port'
+  ...
+}
+```
+
+### How can we make bittorrent stream
+
+concurrent fetch of most critical pieces
+
+If some peer is bad peer, we still can get the critical piece from other peer.
+
+
+[torrent-stream](https://github.com/mafintosh/torrent-stream)
+
+[peerflix](https://github.com/mafintosh/peerflix)
+> streaming torrent and watch streaming video use vlc
+
+Not a gimmick
+
+### MAD SCIENCE
+
+_Stream any content_
+
+[peerwiki](https://github.com/mafintosh/peerwiki)
+Browse all wikipedia use bittorrent
+
+`O_o` linux is on bittorrent
+
+What if virtual box -understood streams-?
+
+[torrent-mount](https://github.com/mafintosh/torrent-mount)
+> Mounts a torrent as a file system
+
+[abstract-blob-store](https://www.npmjs.org/package/abstract-blob-store)
+
+[torrent-blob-store](https://github.com/mafintosh/torrent-blob-store)
+
+[instant.io](http://instant.io)
+
+[chrome-net]()
+Use Node `net` API in Chrome app (via Browserify).
+
+---
+
 Back to [Day 1](https://github.com/sorarize)
 
