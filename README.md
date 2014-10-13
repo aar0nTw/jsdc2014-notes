@@ -19,7 +19,7 @@ JSDC 2014 Notes
 - [R0 #3 Leveraging ZMQ with Node.js](https://github.com/aar0nTw/jsdc2014-notes/blob/master/day_2.md#r0-3-leveraging-zmq-with-nodejs)
 - [R0 #4 打造前端團隊之路](https://github.com/aar0nTw/jsdc2014-notes/blob/master/day_2.md#r0-4-%E6%89%93%E9%80%A0%E5%89%8D%E7%AB%AF%E5%9C%98%E9%9A%8A%E4%B9%8B%E8%B7%AF)
 - [R0 #5 Node.js, p2p and MAD SCIENCE](https://github.com/aar0nTw/jsdc2014-notes/blob/master/day_2.md#r0-5-nodejs-p2p-and-mad-science)
-- [R0 Last talk - GitHub 大冒險]()
+- [R0 Last talk - GitHub 大冒險](https://github.com/aar0nTw/jsdc2014-notes/blob/master/day_2.md#r0-last-talk---github-%E5%A4%A7%E5%86%92%E9%9A%AA)
 
 Contributor
 ===========
