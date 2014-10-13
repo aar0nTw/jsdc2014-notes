@@ -198,5 +198,5 @@ Use Node `net` API in Chrome app (via Browserify).
 
 ---
 
-Back to [Day 1](https://github.com/sorarize)
+Back to [Day 1](https://github.com/aar0nTw/jsdc2014-notes/blob/master/day_1.md)
 
