@@ -200,8 +200,8 @@ Use Node `net` API in Chrome app (via Browserify).
 
 R0 Last talk - GitHub 大冒險
 ===========================
-### Muan
-#### [muan](https://github.com/muan), [@muan](https://twitter.com/muanchiou)
+### Muan, Github
+#### [muan](https://github.com/muan), [@muanchiou](https://twitter.com/muanchiou)
 
 Co-founder of [zeczec](https://www.zeczec.com/)
 
@@ -225,7 +225,7 @@ These classes are no where to be found:
 
 Lint your code
 
-[Accessibility Camps](www.accessibilitycamp.org)
+[Accessibility Camps](http://www.accessibilitycamp.org)
 
 ---
 
