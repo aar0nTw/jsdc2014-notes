@@ -1,4 +1,4 @@
-R0 #3 Leveraging ZMQ with Node.js
+R0 #3 - Leveraging ZMQ with Node.js
 =================================
 ### Ruben
 
@@ -72,7 +72,7 @@ References:
 
 ---
 
-R0 #4 打造前端團隊之路
+R0 #4 - 打造前端團隊之路
 ======================
 ### 吳亮 @75Team
 
@@ -121,7 +121,7 @@ demo [會動的貓眼](http://qgy18.imququ.com/bobo/edit.html)
 
 ---
 
-R0 #5 Node.js, p2p and MAD SCIENCE
+R0 #5 - Node.js, p2p and MAD SCIENCE
 ==================================
 ### Mathias Buus
 #### [@mafintosh](https://github.com/mafintosh)
@@ -195,6 +195,37 @@ What if virtual box -understood streams-?
 
 [chrome-net]()
 Use Node `net` API in Chrome app (via Browserify).
+
+---
+
+R0 Last talk - GitHub 大冒險
+===========================
+### Muan
+#### [muan](https://github.com/muan), [@muan](https://twitter.com/muanchiou)
+
+Co-founder of [zeczec](https://www.zeczec.com/)
+
+Important things of remote work,
+  - _Be asynchronous_
+  - _Be non-blocking_
+
+
+Cares about code
+  - Code Style guide
+
+- Stale selectors and partials
+
+These classes are no where to be found:
+
+- Deep selectors
+
+- Special prefixed classes
+
+ `.js-` prefix only use for js binding, it's can't be exist in stylesheet
+
+Lint your code
+
+[Accessibility Camps](www.accessibilitycamp.org)
 
 ---
 
