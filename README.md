@@ -23,6 +23,6 @@ JSDC 2014 Notes
 
 Contributor
 ===========
-
+Kuan-Zhong Huang - [aar0ntw](https://github.com/aar0ntw)
 Nai-Ting Liu - [sorarize](https://github.com/sorarize)
 
